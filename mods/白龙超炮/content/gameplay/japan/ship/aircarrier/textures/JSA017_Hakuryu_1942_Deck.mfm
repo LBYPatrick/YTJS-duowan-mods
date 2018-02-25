@@ -1,0 +1,21 @@
+<JSA017_Hakuryu_1942_Deck.mfm>
+	<fx>	shaders/std_effects/PBS_ship_emissive.fx	</fx>
+	<property>	emissivePower
+		<Float>	1.20000	</Float>
+	</property>
+	<materialKind>	0	</materialKind>
+	<collisionFlags>	0	</collisionFlags>
+	<fx>	shaders/std_effects/PBS_ship.fx	</fx>
+	<property>	ambientOcclusionMap
+		<Texture>	content/gameplay/japan/ship/aircarrier/textures/JSA017_Hakuryu_1942_Deck_ao.tga	</Texture>
+	</property>
+	<property>	normalMap
+		<Texture>	content/gameplay/japan/ship/aircarrier/textures/JSA017_Hakuryu_1942_Deck_n.tga	</Texture>
+	</property>
+	<property>	diffuseMap
+		<Texture>	content/gameplay/japan/ship/aircarrier/textures/JSA017_Hakuryu_1942_Deck_a.tga	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	content/gameplay/japan/ship/aircarrier/textures/JSA017_Hakuryu_1942_Deck_mg.tga	</Texture>
+	</property>
+</JSA017_Hakuryu_1942_Deck.mfm>

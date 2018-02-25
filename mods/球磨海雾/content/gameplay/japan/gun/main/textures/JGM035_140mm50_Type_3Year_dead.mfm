@@ -1,0 +1,17 @@
+<JGM035_140mm50_Type_3Year_dead.mfm>
+	<fx>	shaders/std_effects/PBS_ship.fx	</fx>
+	<materialKind>	0	</materialKind>
+	<collisionFlags>	0	</collisionFlags>
+	<property>	metallicGlossMap
+		<Texture>	content/gameplay/japan/gun/main/textures/JGM035_140mm50_Type_3Year_dead_mg.tga	</Texture>
+	</property>
+	<property>	normalMap
+		<Texture>	content/gameplay/japan/gun/main/textures/JGM035_140mm50_Type_3Year_n.tga	</Texture>
+	</property>
+	<property>	diffuseMap
+		<Texture>	content/gameplay/japan/gun/main/textures/JGM035_140mm50_Type_3Year_dead_a.tga	</Texture>
+	</property>
+	<property>	ambientOcclusionMap
+		<Texture>	content/gameplay/common/textures/default_ao.tga	</Texture>
+	</property>
+</JGM035_140mm50_Type_3Year_dead.mfm>

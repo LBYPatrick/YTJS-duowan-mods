@@ -1,0 +1,20 @@
+<JSC013_Kuma_1938.mfm>
+	<collisionFlags>	0	</collisionFlags>
+	<materialKind>	0	</materialKind>
+	<fx>	shaders/std_effects/PBS_ship_emissive.fx	</fx>
+	<property>	normalMap
+		<Texture>	content/gameplay/japan/ship/cruiser/textures/JSC013_Kuma_1938_n.tga	</Texture>
+	</property>
+	<property>	ambientOcclusionMap
+		<Texture>	content/gameplay/japan/ship/cruiser/textures/JSC013_Kuma_1938_ao.tga	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	content/gameplay/japan/ship/cruiser/textures/JSC013_Kuma_1938_mg.tga	</Texture>
+	</property>
+	<property>	diffuseMap
+		<Texture>	content/gameplay/japan/ship/cruiser/textures/JSC013_Kuma_1938_a.tga	</Texture>
+	</property>
+	<property>	emissivePower
+		<Float>	2.000000	</Float>
+	</property>
+</JSC013_Kuma_1938.mfm>
